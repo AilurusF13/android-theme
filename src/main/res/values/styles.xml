@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Ailurus.DisplayLarge" parent="TextAppearance.Material3.DisplayLarge">
+        <item name="android:fontFamily">@font/oswald</item>
+        <item name="fontFamily">@font/oswald</item>
+    </style>
+    <style name="TextAppearance.Ailurus.DisplayMedium" parent="TextAppearance.Material3.DisplayMedium">
+        <item name="android:fontFamily">@font/oswald</item>
+        <item name="fontFamily">@font/oswald</item>
+    </style>
+    <style name="TextAppearance.Ailurus.DisplaySmall" parent="TextAppearance.Material3.DisplaySmall">
+        <item name="android:fontFamily">@font/oswald</item>
+        <item name="fontFamily">@font/oswald</item>
+    </style>
+
+    <style name="TextAppearance.Ailurus.HeadlineLarge" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="android:fontFamily">@font/oswald</item>
+        <item name="fontFamily">@font/oswald</item>
+    </style>
+    <style name="TextAppearance.Ailurus.HeadlineMedium" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:fontFamily">@font/oswald</item>
+        <item name="fontFamily">@font/oswald</item>
+    </style>
+    <style name="TextAppearance.Ailurus.HeadlineSmall" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:fontFamily">@font/oswald</item>
+        <item name="fontFamily">@font/oswald</item>
+    </style>
+
+    <style name="AilurusFont" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="textAppearanceDisplayLarge">@style/TextAppearance.Ailurus.DisplayLarge</item>
+        <item name="textAppearanceDisplayMedium">@style/TextAppearance.Ailurus.DisplayMedium</item>
+        <item name="textAppearanceDisplaySmall">@style/TextAppearance.Ailurus.DisplaySmall</item>
+    </style>
+
+</resources>
